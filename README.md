@@ -5,7 +5,7 @@ The details you find elow are a summary of what each tableau visual entails
 
 # Comparing Vehicle Co2 Emissions
 
-# Covid Airbnb Listing Analysis
+# 2022 Airbnb Listing Analysis
 
 # Covide Vaccine Tracker
 
