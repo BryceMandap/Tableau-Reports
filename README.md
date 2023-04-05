@@ -28,7 +28,3 @@ https://public.tableau.com/app/profile/bryce.mandap/viz/CovidVaccineTracker_1675
 ![image](https://user-images.githubusercontent.com/129364286/229723406-4650e1b6-8bd5-433c-86ce-8d333997dbbf.png)
 
 
-# Sales Superstore Dashboard 
-https://public.tableau.com/app/profile/bryce.mandap/viz/SalesSuperstoreDashboard_16757341471480/Dashboard1
-
-![image](https://user-images.githubusercontent.com/129364286/229985242-fc0e465d-4e3c-40b3-8126-0edb4b26d90e.png)
